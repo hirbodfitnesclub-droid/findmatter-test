@@ -1,0 +1,9 @@
+{
+  "name": "hexer 1.76",
+  "description": "ادامه دیباگ و بهبود",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": []
+}
